@@ -61,9 +61,9 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.11.0</version>  <!-- Updated to latest version -->
+				<version>3.11.0</version>
 				<configuration>
-					<release>21</release>  <!-- Make sure the release version is set to 21 -->
+					<release>21</release>
 				</configuration>
 			</plugin>
 			<plugin>
